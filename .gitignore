@@ -16,3 +16,6 @@
 /.direnv/
 # apt repo
 /debian/
+
+# zed
+/.zed
