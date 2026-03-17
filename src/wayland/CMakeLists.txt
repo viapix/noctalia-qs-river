@@ -123,6 +123,10 @@ if (NIRI)
 	add_subdirectory(niri)
 endif()
 
+if (RIVER_CLASSIC)
+	add_subdirectory(river_classic)
+endif()
+
 add_subdirectory(windowmanager)
 
 add_subdirectory(idle_inhibit)
