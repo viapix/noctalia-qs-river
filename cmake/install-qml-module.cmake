@@ -1,4 +1,4 @@
-set(INSTALL_QMLDIR "/usr/lib/x86_64-linux-gnu/qt6" CACHE STRING "QML install dir")
+set(INSTALL_QMLDIR "" CACHE STRING "QML install dir")
 set(INSTALL_QML_PREFIX "" CACHE STRING "QML install prefix")
 
 # There doesn't seem to be a standard cross-distro qml install path.
